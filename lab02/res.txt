@@ -1,0 +1,10 @@
+/home/nikita/051007/zakharenko.nikita/lab00/.vscode/tasks.json = /home/nikita/051007/zakharenko.nikita/lab02/.vscode/tasks.json
+
+/home/nikita/051007/zakharenko.nikita/te st/test.txt = /home/nikita/051007/zakharenko.nikita/te st/test3
+/home/nikita/051007/zakharenko.nikita/te st/test.txt = /home/nikita/051007/zakharenko.nikita/te st/test2.txt
+/home/nikita/051007/zakharenko.nikita/te st/test.txt = /home/nikita/051007/zakharenko.nikita/lab02/test4
+
+/home/nikita/051007/zakharenko.nikita/te st/test_other.txt = /home/nikita/051007/zakharenko.nikita/te st/test_other1.txt
+
+/home/nikita/051007/zakharenko.nikita/lab00/.exe = /home/nikita/051007/zakharenko.nikita/lab00/a.out
+

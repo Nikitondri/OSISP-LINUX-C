@@ -1,0 +1,2 @@
+4085: /home/nikita/051007/zakharenko.nikita/test2/debianutils.mo: 33793
+4086: /home/nikita/051007/zakharenko.nikita/test2/text.txt: 8
